@@ -14,6 +14,16 @@
 #### - using a slicer categorywise
 #### -using the slicer year wise
 
+## process of Dashboard
+#### -Verify data for any missing values and anomial,and sort out the same.
+#### -Made sure data is consists and clean with respect to data types,data format and values used. 
+#### -Create the the Kpi for follow the question. 
+#### -This Kpi Creation by using the pivot tables.
+#### -Add the Slicer and connected to the all KPIs.
+
+## Dashboard
+<img width="1823" height="716" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/d5e04bbc-c4e5-47af-b9b9-a83ff36dd7c7" />
+
 
 
 
